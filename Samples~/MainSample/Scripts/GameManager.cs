@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 
-public class GameManager : MonoBehaviour
-{
-    public void Quit() {
-        Application.Quit();
-    }
+namespace Sayollo{
+	public class GameManager : MonoBehaviour
+	{
+	    public void Quit() {
+	        Application.Quit();
+	    }
+	}
 }

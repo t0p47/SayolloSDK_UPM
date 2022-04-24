@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace sayollo.SDK {
+namespace Sayollo {
     static class SayolloMenuItems
     {
         const int menuPriority = 1;

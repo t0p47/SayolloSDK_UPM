@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace sayollo.SDK {
+namespace Sayollo {
     public class SayolloEditorWindow: EditorWindow
     {
         [MenuItem("Sayollo/Editor")]
