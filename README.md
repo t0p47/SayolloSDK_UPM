@@ -1,7 +1,5 @@
 # Sayollo
 
-([latest release](https://github.com/t0p47/Sayollo/releases/tag/v2))
-
 **SayolloSDK** allows you to display video ads in VAST format and process in-app purchases.
 SayolloSDK folder contains ready to use prefabs VideoAd and PurchaseView.
 
